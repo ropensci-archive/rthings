@@ -3,6 +3,7 @@
 rthings
 =======
 
+[![Project Status: Abandoned – Initial development has started, but there has not yet been a stable, usable release; the project has been abandoned and the author(s) do not intend on continuing development.](https://www.repostatus.org/badges/latest/abandoned.svg)](https://www.repostatus.org/#abandoned)
 [![Travis-CI Build Status](https://travis-ci.org/karthik/rthings.svg?branch=master)](https://travis-ci.org/karthik/rthings) [![codecov](https://codecov.io/gh/karthik/rthings/branch/master/graph/badge.svg)](https://codecov.io/gh/karthik/rthings) [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/rthings)](https://cran.r-project.org/package=rthings) [![Licence](https://img.shields.io/github/license/mashape/apistatus.svg)](http://choosealicense.com/licenses/mit/) ![](http://cranlogs.r-pkg.org/badges/rthings)
 
 This package is a thin wrapper around [`list.design`](http://lists.design/). The website says: *Lists a gallery of real data ready to be placed in your design.* So if you need a random list of things to populate an example or a demo, here goes. 📋
